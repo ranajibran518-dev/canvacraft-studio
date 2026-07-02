@@ -1,0 +1,6 @@
+{
+  "name": "CanvaCraft Studio",
+  "description": "Graphic design canvas creator with VIP free Pro unlock and safe client hire escrow marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
